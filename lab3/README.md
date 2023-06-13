@@ -1,4 +1,4 @@
-# MIT 6.S191 Lab 2: Debiasing, Uncertainty, and Robustness
+# MIT 6.S191 Lab 3: Debiasing, Uncertainty, and Robustness
 
 # Part 1: Introduction to Capsa
 In this lab, we'll explore different ways to make deep learning models more robust and trustworthy.
